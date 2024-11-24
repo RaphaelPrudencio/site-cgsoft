@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.f855e6bc.css",
-    "main.js": "/static/js/main.72d2a4e0.js",
-    "static/js/453.6469ab75.chunk.js": "/static/js/453.6469ab75.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.d45c53739c4b82ec0382ebeb58ba58f6.svg",
-    "index.html": "/index.html",
-    "main.f855e6bc.css.map": "/static/css/main.f855e6bc.css.map",
-    "main.72d2a4e0.js.map": "/static/js/main.72d2a4e0.js.map",
-    "453.6469ab75.chunk.js.map": "/static/js/453.6469ab75.chunk.js.map"
+    "main.css": "/site-cgsoft/static/css/main.f855e6bc.css",
+    "main.js": "/site-cgsoft/static/js/main.881455b6.js",
+    "static/js/453.6469ab75.chunk.js": "/site-cgsoft/static/js/453.6469ab75.chunk.js",
+    "static/media/logo.svg": "/site-cgsoft/static/media/logo.d45c53739c4b82ec0382ebeb58ba58f6.svg",
+    "index.html": "/site-cgsoft/index.html",
+    "main.f855e6bc.css.map": "/site-cgsoft/static/css/main.f855e6bc.css.map",
+    "main.881455b6.js.map": "/site-cgsoft/static/js/main.881455b6.js.map",
+    "453.6469ab75.chunk.js.map": "/site-cgsoft/static/js/453.6469ab75.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.72d2a4e0.js"
+    "static/js/main.881455b6.js"
   ]
 }
