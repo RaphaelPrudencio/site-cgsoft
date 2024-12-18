@@ -1,0 +1,23 @@
+/* Adicionando suporte ao dark mode */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg-light: #ffffff;
+  --bg-dark: #111827;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply transition-colors duration-300;
+}
+
+/* Dark mode */
+html.dark body {
+  background-color: var(--bg-dark);
+  color: #ffffff;
+}
