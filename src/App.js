@@ -30,9 +30,9 @@ function App() {
         <div className={`text-3xl font-bold ${darkMode ? 'text-blue-400' : 'text-blue-600'}`}>CGSoft</div>
         <nav>
           <ul className="flex space-x-6">
-            <li><a href="#" className="hover:text-blue-400">Início</a></li>
-            <li><a href="#" className="hover:text-blue-400">Sobre</a></li>
-            <li><a href="#" className="hover:text-blue-400">Contato</a></li>
+            <li><a href="https://cgsoft.com.br/" className="hover:text-blue-400">Início</a></li>
+            <li><a href="https://cgsoft.com.br/" className="hover:text-blue-400">Sobre</a></li>
+            <li><a href="https://cgsoft.com.br/" className="hover:text-blue-400">Contato</a></li>
           </ul>
         </nav>
         <button onClick={toggleDarkMode} className="focus:outline-none">
@@ -54,13 +54,13 @@ function App() {
         </p>
         <div className="flex space-x-4">
           <a
-            href="#"
+            href="https://cgsoft.com.br/"
             className="bg-blue-500 text-white py-2 px-4 rounded-lg hover:bg-blue-600 transition"
           >
             Conectar
           </a>
           <a
-            href="#"
+            href="https://cgsoft.com.br/"
             className="bg-gray-800 text-gray-300 py-2 px-4 rounded-lg hover:bg-gray-700 transition"
           >
             Portfólio
