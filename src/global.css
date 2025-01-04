@@ -21,3 +21,18 @@ html.dark body {
   background-color: var(--bg-dark);
   color: #ffffff;
 }
+
+/* Remover contorno azul/lilás ao clicar em imagens ou links */
+img:focus,
+img:active,
+a:focus,
+a:active {
+  outline: none;
+  box-shadow: none;
+}
+
+/* Ajuste geral para evitar contornos indesejados */
+*:focus {
+  outline: none;
+  box-shadow: none;
+}
